@@ -1,0 +1,124 @@
+{
+    "peliculas":[
+        {
+            "name": "acuaman",
+            "puntaje": "4.0",
+            "genero":"accion",
+            "img":"./imagen/acuaman.jpg"
+        },
+        {
+            "name": "anabel",
+            "puntaje": "2.0",
+            "genero":"terror",
+            "img":"./imagen/anabel.jpg"
+        },
+        {
+            "name": "batman",
+            "puntaje": "4.0",
+            "genero":"accion",
+            "img":"./imagen/batman.webp"
+        },
+        {
+            "name": "crow",
+            "puntaje": "3.0",
+            "genero":"romantico",
+            "img":"./imagen/crow.webp"
+        },
+        {
+            "name": "dark",
+            "puntaje": "5.0",
+            "genero":"accion",
+            "img":"./imagen/dark.jpg"
+        },
+        {
+            "name": "dunke",
+            "puntaje": "2.0",
+            "genero":"romantico",
+            "img":"./imagen/dunke.jpg"
+        },
+        {
+            "name": "niño",
+            "puntaje": "3.0",
+            "genero":"romantico",
+            "img":"./imagen/niño.jpg"
+        },
+        {
+            "name": "erase una vez",
+            "puntaje": "4.0",
+            "genero":"romantico",
+            "img":"./imagen/erase.jpg"
+        },
+        {
+            "name": "harry",
+            "puntaje": "5.0",
+            "genero":"terror",
+            "img":"./imagen/harry.jpg"
+        },
+        {
+            "name": "huerfana",
+            "puntaje": "1.0",
+            "genero":"terror",
+            "img":"./imagen/huerfana.jpg"
+        },
+        {
+            "name": "justicia",
+            "puntaje": "4.0",
+            "genero":"romantico",
+            "img":"./imagen/justicia.jpg"
+        },
+        {
+            "name": "soy leyenda",
+            "puntaje": "5.0",
+            "genero":"accion",
+            "img":"./imagen/leyenda.jpg"
+        },
+        {
+            "name": "lucy",
+            "puntaje": "4.0",
+            "genero":"accion",
+            "img":"./imagen/lucy.jpg"
+        },
+        {
+            "name": "malefica",
+            "puntaje": "3.0",
+            "genero":"romantico",
+            "img":"./imagen/malefica.jpg"
+        },
+        {
+            "name": "paraiso",
+            "puntaje": "2.0",
+            "genero":"romantico",
+            "img":"./imagen/paraiso.png"
+        },
+        {
+            "name": "reminisencia",
+            "puntaje": "4.0",
+            "genero":"accion",
+            "img":"./imagen/reminisencia.jpg"
+        },
+        {
+            "name": "tiempo",
+            "puntaje": "5.0",
+            "genero":"romantico",
+            "img":"./imagen/tiempo.jpg"
+        },
+        {
+            "name": "titanic",
+            "puntaje": "5.0",
+            "genero":"romantico",
+            "img":"./imagen/titanic.jpg"
+        },
+        {
+            "name": "vengadores",
+            "puntaje": "5.0",
+            "genero":"accion",
+            "img":"./imagen/vengadores.jpg"
+        },
+        {
+            "name": "yo antes de ti",
+            "puntaje": "3.0",
+            "genero":"romantico",
+            "img":"./imagen/yo.jpg"
+        }  
+    ]
+}
